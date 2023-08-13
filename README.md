@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kathy! <br/>Computer Graphics Programmer, Visual Effects Artist, </h1>
+<h1>Hi, I'm Kathy! <br/>Copmuter Science and Interactive Arts and Technology</h1>
 
 <h2>Computer Graphics Programming Projects:</h2>
 
