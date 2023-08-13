@@ -1,8 +1,5 @@
 ### Hi there 👋, my name is Kathy 
 #### Computer Graphics Programmer, VFX Artist
-Bachelor of Science, Double Major, Simon Fraser University 
-Computer Science, computer graphics 
-Interactive Arts and Technology, concentration in Interactive Systems
 
 Skills: Java / Python / C / C++ / Houdini / Maya
 
