@@ -12,8 +12,9 @@
 
 - <b>Java</b>
   - [Mobile Application]
-  - [Platform Side Scrolling Game](https://github.com/kkxthyl/IAT167-final)
   - [Autoshop Simulation]
+- <b>Processing</b>
+  - [Platform Side Scrolling Game](https://github.com/kkxthyl/IAT167-final)
  
 <h2>Visual Effects Projects:</h2>
 
