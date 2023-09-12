@@ -12,7 +12,7 @@
 
 - <b>Java</b>
   - [Mobile Application]
-  - [Autoshop Simulation]
+  - [Autoshop Simulation](https://github.com/kkxthyl/Autoshop-Simulation)
 - <b>Processing</b>
   - [Platform Side Scrolling Game](https://github.com/kkxthyl/IAT167-final)
  
