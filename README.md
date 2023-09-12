@@ -3,7 +3,7 @@
 <h2>Computer Graphics Programming Projects:</h2>
 
 - <b>Python</b>
-  - [Stable Diffusion GUI]
+  - Stable Diffusion GUI (work in progress)
 - <b>JavaScript</b>
   - [3D Volume Modeling, Texturing, and Rendering]
   - [Rasterixing Lines and Triangles]
