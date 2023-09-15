@@ -1,4 +1,6 @@
-<h1>Hi, I'm Kathy! <br/>Copmuter Science and Interactive Arts and Technology</h1>
+<!--<h1>Hi, I'm Kathy! <br/>Copmuter Science and Interactive Arts and Technology</h1>-->
+
+![banner](banner.png)
 
 <h2>Computer Graphics Programming Projects:</h2>
 
@@ -18,7 +20,7 @@
  
 <h2>Visual Effects Projects:</h2>
 
-- [RBD, Particle Simulation and Procedural Modeling](https://youtu.be/gX_X7cOUnmo)
+[![RBD, Particle Simulation and Procedural Modeling](vfx.png)](https://youtu.be/gX_X7cOUnmo)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
