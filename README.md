@@ -18,7 +18,7 @@
  
 <h2>Visual Effects Projects:</h2>
 
-- [RBD, Particle Simulation and Procedural Modeling](https://youtu.be/gX_X7cOUnmo)
+- [![RBD, Particle Simulation and Procedural Modeling](vfx.png)](https://youtu.be/gX_X7cOUnmo)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
