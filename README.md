@@ -7,7 +7,7 @@
 - <b>Python</b>
   - Stable Diffusion GUI (work in progress)
 - <b>JavaScript</b>
-  - [3D Volume Modeling, Texturing, and Rendering]
+  - [3D Volume Modeling, Texturing, and Rendering](https://github.com/kkxthyl/3D-Volume-Modeling.git)
   - [Rasterixing Lines and Triangles]
 
 <h2>Interactive Arts and Technology Projects:</h2>
