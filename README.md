@@ -13,7 +13,7 @@
 <h2>Interactive Arts and Technology Projects:</h2>
 
 - <b>Java</b>
-  - [Mobile Application]
+  - [Colour Palette Generator - Mobile Application](https://github.com/kkxthyl/Colour-Palette-Generator-Mobile-Application.git)
   - [Autoshop Simulation](https://github.com/kkxthyl/Autoshop-Simulation)
 - <b>Processing</b>
   - [Platform Side Scrolling Game](https://github.com/kkxthyl/IAT167-final)
