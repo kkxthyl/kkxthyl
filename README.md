@@ -20,4 +20,4 @@
  
 <h2>Visual Effects Projects:</h2>
 
-[![RBD, Particle Simulation and Procedural Modeling](vfx.png)](https://youtu.be/_ZjpwZ_qDWco)
+[![RBD, Particle Simulation and Procedural Modeling](vfx.png)](https://youtu.be/hcjd1GYZa7M)
