@@ -5,7 +5,7 @@
 <h2>Computer Graphics Programming Projects:</h2>
 
 - <b>Python</b>
-  - Stable Diffusion GUI (work in progress)
+  - Stable Diffusion GUI 
 - <b>JavaScript</b>
   - [3D Volume Modeling, Texturing, and Rendering](https://github.com/kkxthyl/3D-Volume-Modeling.git)
   - [Rasterizing Lines and Triangles](https://github.com/kkxthyl/Rasterizing-Lines-and-Triangles.git)
