@@ -5,7 +5,7 @@
 <h2>Computer Graphics Programming Projects:</h2>
 
 - <b>Python</b>
-  - [Primitive Fitting NeuralNet](https://github.com/kkxthyl/3D-Shape-Parametric-Representation)
+  - [3D Shape Parametric Representation](https://github.com/kkxthyl/3D-Shape-Parametric-Representation)
   - Stable Diffusion GUI 
 - <b>JavaScript</b>
   - [3D Volume Modeling, Texturing, and Rendering](https://github.com/kkxthyl/3D-Volume-Modeling.git)
