@@ -5,8 +5,8 @@
 <h2>Computer Graphics Programming Projects:</h2>
 
 - <b>Python</b>
-- Texture Synthesis and Transfer (Computational Photography)
-- Convolutional Neural Network for detecting digits in images (Computer Vision)
+  - Texture Synthesis and Transfer (Computational Photography)
+  - Convolutional Neural Network for detecting digits in images (Computer Vision)
   - [3D Shape Parametric Representation with Neural Networks](https://github.com/kkxthyl/3D-Shape-Parametric-Representation)
   - Stable Diffusion GUI 
 - <b>JavaScript</b>
