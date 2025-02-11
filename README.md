@@ -1,10 +1,10 @@
 <h2>Computer Graphics Programming Projects:</h2>
 
 - <b>C# (Unity)</b>
-  - Coming Soon
+  - Forward and Inverse Kinematics
 - <b>Python</b>
-  - Texture Synthesis and Transfer (Computational Photography)
-  - Convolutional Neural Network for detecting digits in images (Computer Vision)
+  - Texture Synthesis and Transfer 
+  - Convolutional Neural Network for detecting digits in images 
   - [3D Shape Parametric Representation with Neural Networks](https://github.com/kkxthyl/3D-Shape-Parametric-Representation)
 - <b>JavaScript</b>
   - [3D Volume Modeling, Texturing, and Rendering](https://github.com/kkxthyl/3D-Volume-Modeling.git)
