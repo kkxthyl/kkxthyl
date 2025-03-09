@@ -1,7 +1,7 @@
 <h2>Computer Graphics Programming Projects:</h2>
 
 - <b>C# (Unity)</b>
-  - Forward and Inverse Kinematics
+  - [Forward and Inverse Kinematics](https://github.com/kkxthyl/Forward-and-Inverse-Kinematics#)
 - <b>Python</b>
   - Texture Synthesis and Transfer 
   - Convolutional Neural Network for detecting digits in images 
