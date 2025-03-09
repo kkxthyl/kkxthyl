@@ -4,7 +4,7 @@
   - [Forward and Inverse Kinematics](https://github.com/kkxthyl/Forward-and-Inverse-Kinematics#)
 - <b>Python</b>
   - Texture Synthesis and Transfer 
-  - Convolutional Neural Network for detecting digits in images 
+  - [Convolutional Neural Network for detecting digits in images](https://github.com/kkxthyl/CNN-for-detecting-digits-in-images)
   - [3D Shape Parametric Representation with Neural Networks](https://github.com/kkxthyl/3D-Shape-Parametric-Representation)
 - <b>JavaScript</b>
   - [3D Volume Modeling, Texturing, and Rendering](https://github.com/kkxthyl/3D-Volume-Modeling.git)
