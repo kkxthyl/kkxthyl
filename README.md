@@ -1,6 +1,7 @@
 <h2>Computer Graphics Programming Projects:</h2>
 
 - <b>C# (Unity)</b>
+  - Rigid Body Simulator using Forward Dynamics
   - [Forward and Inverse Kinematics](https://github.com/kkxthyl/Forward-and-Inverse-Kinematics#)
 - <b>Python</b>
   - [Texture Synthesis and Transfer](https://github.com/kkxthyl/Texture-Synthesis-and-Transfer)
