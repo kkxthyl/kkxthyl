@@ -6,6 +6,7 @@
   - [Forward and Inverse Kinematics](https://github.com/kkxthyl/Forward-and-Inverse-Kinematics#)
 - <b>Python</b>
   - 3D Reconstruction
+  - Planar Homography
   - [Texture Synthesis and Transfer](https://github.com/kkxthyl/Texture-Synthesis-and-Transfer)
   - [Convolutional Neural Network for detecting digits in images](https://github.com/kkxthyl/CNN-for-detecting-digits-in-images)
   - [3D Shape Parametric Representation with Neural Networks](https://github.com/kkxthyl/3D-Shape-Parametric-Representation)
